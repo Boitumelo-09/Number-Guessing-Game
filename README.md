@@ -46,7 +46,7 @@ Basic knowledge of compiling and running C++ programs.
 
 ### Clone the repository:
 
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/Boitumelo-09/Number-Guessing-Game.git
 
 Navigate to the project directory:
 
