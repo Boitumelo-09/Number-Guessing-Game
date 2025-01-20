@@ -42,9 +42,9 @@ A C++ compiler (e.g., GCC, Clang, MSVC).
 
 Basic knowledge of compiling and running C++ programs.
 
-Installation
+## Installation
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/yourusername/number-guessing-game.git
 
@@ -60,7 +60,7 @@ Run the compiled program:
 
 ./NumberGuessingGame
 
-Example Output
+## Example Output
 
 Welcome to the Number Guessing Game!
 I have selected a number between 1 and 100.
@@ -78,7 +78,7 @@ Correct! You guessed the number in 3 attempts.
 Would you like to play again? (y/n): n
 Thank you for playing!
 
-Customization
+## Customization
 
 You can modify the following aspects of the game:
 
@@ -101,7 +101,7 @@ Make changes and submit a pull request.
 
 Open an issue to discuss ideas.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
