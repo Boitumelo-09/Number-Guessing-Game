@@ -1,4 +1,5 @@
 # Number Guessing Game
+  #### Programmed By Boitumelo.
 
 ## Overview
 
@@ -18,19 +19,34 @@ Option to play again after the game ends.
 
 ## How to Play
 
-Run the program in a C++ compiler or terminal.
+     Run the program in a C++ compiler or terminal.
 
-The program will generate a random number within the specified range.
+     You will either choose to play with computer or another user(friend).
 
-Enter your guess when prompted.
+ ### Chose Computer
 
-The program will provide feedback:
+         Enter your guess when prompted.
 
-"Too high!" if your guess is greater than the number.
+         The program will provide feedback:
 
-"Too low!" if your guess is less than the number.
+         "Too high!" if your guess is greater than the number.
 
-"Correct!" when you guess the number.
+         "Too low!" if your guess is less than the number.
+
+         "Correct!" when you guess the number.
+
+### Chose To Play With Friend
+
+         First User Enters Private Number And Second User Will Guess The Number.
+
+         The program will provide feedback:
+
+         "Too high!" if the second user's number is greater than the first user's number.
+
+         "Too low!" if the second user's number is less than the first user's number.
+
+         "Correct!" if the second user's number equals the first user's number.
+
 
 The game ends once the correct number is guessed. You can then choose to play again or exit.
 
@@ -44,7 +60,7 @@ Basic knowledge of compiling and running C++ programs.
 
 ## Installation
 
-### Clone the repository:
+#### Clone the repository:
 
 git clone https://github.com/Boitumelo-09/Number-Guessing-Game.git
 
