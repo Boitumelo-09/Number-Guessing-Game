@@ -118,7 +118,7 @@ Make changes and submit a pull request.
 Open an issue to discuss ideas.
 
 ## License
-
+Linkedin: https://www.linkedin.com/in/boitumelo-mkhondo-000a23312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 This project is licensed under the MIT License.
 
 Enjoy the game and happy coding!
